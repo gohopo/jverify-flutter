@@ -1,6 +1,6 @@
 {
   "module": {
-    "name": "jverify_flutter",
+    "name": "jverify",
     "type": "har",
     "deviceTypes": [
       "default",

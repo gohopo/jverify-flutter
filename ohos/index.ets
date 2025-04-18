@@ -13,5 +13,5 @@
 * limitations under the License.
 */
 
-import JverifyFlutterPlugin from './src/main/ets/components/plugin/JverifyFlutterPlugin';
-export default JverifyFlutterPlugin;
+import JverifyPlugin from './src/main/ets/components/plugin/JverifyPlugin';
+export default JverifyPlugin;
