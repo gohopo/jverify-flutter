@@ -37,6 +37,8 @@ flutter:
         pluginClass: JverifyPlugin
       ios:
         pluginClass: JverifyPlugin
+      ohos:
+        pluginClass: JverifyPlugin
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:

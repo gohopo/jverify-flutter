@@ -5,5 +5,10 @@
   "main": "",
   "author": "",
   "license": "",
-  "dependencies": {}
+  "dependencies": {
+    "jverify_flutter": "file:../../../ohos",
+    "jverify": "file:../har/jverify.har"
+  },
+  "devDependencies": {},
+  "dynamicDependencies": {}
 }
