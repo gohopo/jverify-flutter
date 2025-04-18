@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "jverify_flutter",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}
