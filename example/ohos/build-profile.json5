@@ -1,6 +1,20 @@
 {
   "app": {
-    "signingConfigs": [],
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\nineck\\.ohos\\config\\default_ohos_hLbrsOtW7_2DCk63hUoIUs513bwPlWlPkJtYtMBpzms=.cer",
+          "storePassword": "0000001B369A50491C560CB31BE70CD0032DA0B5AAF6CFFF2D5C20D2D9650B2B846F1CED62D96081B48AE3",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001BE79A6440FC1552620827C51B874BAE21AB10B90864E3C4F7C26C3A1551EA89D7D05E711E6B643F",
+          "profile": "C:\\Users\\nineck\\.ohos\\config\\default_ohos_hLbrsOtW7_2DCk63hUoIUs513bwPlWlPkJtYtMBpzms=.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\nineck\\.ohos\\config\\default_ohos_hLbrsOtW7_2DCk63hUoIUs513bwPlWlPkJtYtMBpzms=.p12"
+        }
+      }
+    ],
     "products": [
       {
         "name": "default",
